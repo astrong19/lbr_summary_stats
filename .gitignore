@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+.Python
+.DS_Store
+
+#tokens
+tokens/
+
+#cache database
+*.sqlite
+
+#Notes
+*.txt
